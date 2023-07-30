@@ -656,10 +656,6 @@ footer a:hover{
         margin-bottom: 15px;
     }
 
-    /* .showtimes .nav-item:after {
-        width: 0;
-    } */
-
     .showtimes .nav .nav-item .nav-link.active  {
         background-color: transparent;
     }
@@ -678,10 +674,6 @@ footer a:hover{
 }
 
 @media screen and (max-width: 575.98px) {
-    .showtimes .nav {
-        display: block;
-    }
-
     .contact .contact__content p a {
         font-size: 34px;
     }
