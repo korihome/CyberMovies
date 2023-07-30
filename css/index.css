@@ -135,16 +135,22 @@ header .header__top {
 #carouselMovie .carousel-item:first-child {
     background: url(../img/hero-1.jpg);
     background-attachment: fixed;
-    background-position: center;
+    background-position: 64%;
     background-size: cover;
 }
 
 #carouselMovie .carousel-item:nth-child(2) {
     background: url(../img/hero-2.jpg);
+    background-attachment: fixed;
+    background-position: 37%;
+    background-size: cover;
 }
 
 #carouselMovie .carousel-item:last-child {
     background: url(../img/hero-3.jpg);
+    background-attachment: fixed;
+    background-position: 27%;
+    background-size: cover;
 }
 
 #carouselMovie .carousel-item .carousel-caption {
